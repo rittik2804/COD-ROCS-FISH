@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           ),
         ],
         child: MaterialApp(
-            title: 'COD Rocs Fish And Chips Welling',
+            title: 'COD Rocks Fish And Chips Welling',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               primarySwatch: Colors.blue,
